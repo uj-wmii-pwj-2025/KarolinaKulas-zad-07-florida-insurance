@@ -4,3 +4,5 @@ build
 *.iml
 *.txt
 !expected/*.txt
+
+.fake
